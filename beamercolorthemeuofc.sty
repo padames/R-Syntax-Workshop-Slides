@@ -1,0 +1,58 @@
+% Beamer class for the ENST de Bretagne (GET/ ENST B)
+
+% based on the work done by  Madhusudan Singh for NCSU
+
+% modified by Gilles Bertrand
+% December 2006
+
+% This program can be redistributed and/or modified under the terms
+% of the GNU Public License, version 2.
+
+\mode<presentation>
+
+\definecolor{wolfred}{rgb}{1,0,0}
+%\definecolor{adr}{RGB}{0,60,71}
+\definecolor{adr}{RGB}{255,205,0}
+
+%\definecolor{bloc}{RGB}{194,16,31}
+\definecolor{bloc}{RGB}{214,0,28}%U ofC red from https://www.ucalgary.ca/brand/standards-and-guidelines/colours
+\definecolor{titre}{RGB}{177,137,0}
+
+\definecolor{blocGT}{RGB}{0,102,0}
+\definecolor{blocGB}{RGB}{0,153,51}
+\definecolor{blocYL}{RGB}{255,255,153}
+
+\setbeamercolor{alerted text}{fg=bloc}
+\setbeamercolor*{palette primary}{fg=white,bg=bloc}
+\setbeamercolor*{palette secondary}{fg=white,bg=adr}
+\setbeamercolor*{palette tertiary}{bg=white,fg=adr}
+\setbeamercolor*{palette quaternary}{fg=black,bg=adr}
+
+\setbeamercolor*{sidebar}{fg=white,bg=wolfred}
+
+\setbeamercolor*{palette sidebar primary}{fg=bloc}
+\setbeamercolor*{palette sidebar secondary}{fg=white}
+\setbeamercolor*{palette sidebar tertiary}{fg=bloc}
+\setbeamercolor*{palette sidebar quaternary}{fg=white}
+
+\setbeamercolor*{titlelike}{parent=titre}
+\setbeamercolor{frametitle}{bg=white,fg=titre}
+\setbeamercolor{frametitle right}{bg=white}
+\setbeamercolor{frametitle left}{fg=white,bg=wolfred}
+
+\setbeamercolor{section in toc}{fg=bloc,bg=white}
+\setbeamercolor{item projected}{fg=white,bg=bloc}
+\setbeamercolor{item}{use={structure,normal text},fg=bloc}
+%\setbeamercolor{block title}{fg=bloc}
+
+\setbeamercolor*{separation line}{}
+\setbeamercolor*{fine separation line}{}
+
+%\setbeamercolor{block title}{fg=white,bg=adr} 
+%\setbeamercolor{block body}{parent=normal text,fg= white, bg=bloc}
+\setbeamercolor{block title}{fg=blocYL,bg=blocGT} 
+\setbeamercolor{block body}{parent=normal text,fg= blocYL, bg=blocGB}
+%\setbeamercolor{block body}{parent=normal text,use=block title, bg=block title.bg!50!bg}
+
+\mode
+<all>

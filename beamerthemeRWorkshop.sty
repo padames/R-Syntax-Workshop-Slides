@@ -1,0 +1,96 @@
+% Beamer class for the ENST de Bretagne (GET/ ENST B)
+
+% based on the work done by  Madhusudan Singh for NCSU, then modified by Samer lahoud (GET/ ENST B)
+
+% modified by Gilles Bertrand, gilles dot bertrand at ieee dot org
+% December 2006
+
+% Dependencies:
+% University logos:
+% get.pdf
+% enst.pdf
+% enstb_get.pdf
+
+% This program can be redistributed and/or modified under the terms
+% of the GNU Public License, version 2.
+
+\mode<presentation>
+
+\useinnertheme{rounded}
+\usecolortheme{uofc}
+
+\setbeamercolor{NCSU logo1}{fg=black,bg=adr}
+\setbeamercolor{NCSU rule}{fg=white,bg=adr}
+\setbeamercolor{NCSU logo2}{fg=white,bg=bloc}
+\setbeamercolor{NCSU footer}{fg=black,bg=white}
+\setbeamercolor{NCSU header}{fg=white,bg=black}
+\setbeamerfont{details in NCSU foot}{size=\Tiny}
+\setbeamerfont{logo in NCSU foot}{size=\scriptsize}
+\setbeamerfont{page number in NCSU foot}{size=\tiny}
+
+\setbeamercolor{section in head/foot}{parent=palette quaternary}
+\setbeamercolor{subsection in head/foot}{parent=palette primary}
+
+\setbeamercolor{author in head/foot}{parent=palette quaternary}
+\setbeamercolor{title in head/foot}{parent=palette primary}
+
+
+\defbeamertemplate*{footline}{NCSU theme}
+{
+  \leavevmode%
+   \hbox{%
+     \hfill\hspace{10.5cm}
+     \includegraphics[height=0.55cm]{./figures/Rlogo}
+    }%
+  \vskip0pt%
+   \leavevmode%
+  \hbox{\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm plus1fill,rightskip=.3cm]{author in head/foot}%
+    \usebeamerfont{author in head/foot}University of Calgary%\insertshortauthor
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshortauthor\hfill\insertframenumber{} / \inserttotalframenumber
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+\defbeamertemplate*{headline}{NCSU theme}
+{
+  \leavevmode%
+  \hbox{%
+    \begin{beamercolorbox}[wd=0.6\paperwidth,ht=4ex,dp=1.15ex,center]{NCSU logo1}%
+      \usebeamerfont{logo in NCSU foot}\hspace{3.5cm}\hbox{\insertshorttitle}%University of Calgary}
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=0.4\paperwidth,ht=4ex,dp=1.15ex,center]{NCSU logo2}%
+      \usebeamerfont{logo in NCSU foot}\hbox{A Library Workshop}
+    \end{beamercolorbox}%
+  }%
+  \vskip0pt
+  \leavevmode%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex]{section in head/foot}%
+  \centering\insertsectionhead%
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex]{subsection in head/foot}%
+  \centering\insertsubsectionnavigationhorizontal{.5\paperwidth}{}{\hskip0pt plus1filll}%
+  \end{beamercolorbox}%
+}
+
+\setbeamersize{text margin left=1em,text margin right=1em}
+
+\setbeamerfont{block title}{size={}}
+
+\setbeamerfont{frametitle}{size=\large,series=\bfseries}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{blocks}[rounded][shadow=true]
+
+\setbeamertemplate{frametitle}
+{
+\begin{beamercolorbox}[wd=1\paperwidth,ht=4ex,dp=1.125ex]{frametitle}
+
+ \hspace{0.2cm}
+ \insertframetitle
+\end{beamercolorbox}
+\par
+}
+
+\mode
+<all>

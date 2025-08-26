@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="CodeVsCustomizabilityEffort.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6890572"
+     inkscape:cx="396.67099"
+     inkscape:cy="561.25984"
+     inkscape:window-width="3840"
+     inkscape:window-height="2096"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       transform="translate(66.572532,-6.1532337)">
+      <rect
+         style="fill:none;stroke:#0002fe;stroke-width:0.565;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="111.46717"
+         height="82.440109"
+         x="29.213827"
+         y="64.875603" />
+      <rect
+         style="fill:none;stroke:#0002fe;stroke-width:0.2825;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-5"
+         width="55.733585"
+         height="41.220055"
+         x="29.508751"
+         y="65.161377" />
+      <rect
+         style="fill:none;stroke:#0002fe;stroke-width:0.2825;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-5-2"
+         width="55.733585"
+         height="41.220055"
+         x="29.510004"
+         y="106.50381" />
+      <rect
+         style="fill:none;stroke:#0002fe;stroke-width:0.2825;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-5-7"
+         width="55.733585"
+         height="41.220055"
+         x="85.072556"
+         y="65.228767" />
+      <rect
+         style="fill:none;stroke:#0002fe;stroke-width:0.2825;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1-5-6"
+         width="55.733585"
+         height="41.220055"
+         x="85.072556"
+         y="106.50381" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6px;font-family:Purisa;-inkscape-font-specification:'Purisa Bold';text-align:center;text-anchor:middle;fill:none;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="102.65769"
+       y="155.13065"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:6px;fill:#000000;stroke-width:0"
+         x="102.65769"
+         y="155.13065">No-code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.00001px;font-family:Purisa;-inkscape-font-specification:'Purisa Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="155.1599"
+       y="154.76767"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0"
+         x="155.1599"
+         y="154.76767">Low-code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="207.48376"
+       y="154.96468"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cousine;-inkscape-font-specification:Cousine;stroke-width:0"
+         x="207.48376"
+         y="154.96468">Full-code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="60.040531"
+       y="136.73625"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0"
+         x="60.040531"
+         y="136.73625">Fast implementation</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="60.040531"
+         y="144.23627"
+         id="tspan6">Lower Initial Effort</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="61.098068"
+       y="57.326458"
+       id="text4-7"><tspan
+         sodipodi:role="line"
+         id="tspan4-7"
+         style="stroke-width:0"
+         x="61.098068"
+         y="57.326458">Slower implementation</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="61.098068"
+         y="64.826469"
+         id="tspan5">Higher Initial Effort</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="243.12758"
+       y="63.122528"
+       id="text4-7-8"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="243.12758"
+         y="63.122528"
+         id="tspan8">Data-oriented syntax</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="243.12758"
+         y="70.622543"
+         id="tspan12" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="247.09224"
+       y="133.11356"
+       id="text4-7-8-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:0"
+         x="247.09224"
+         y="133.11356"
+         id="tspan5-3-7" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:0"
+         x="247.09224"
+         y="140.61356"
+         id="tspan11">General purpose syntax</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="248.81606"
+       y="99.203606"
+       id="text4-7-8-2-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:0"
+         x="248.81606"
+         y="99.203606"
+         id="tspan5-3-7-2" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cabin;-inkscape-font-specification:Cabin;stroke-width:0"
+         x="248.81606"
+         y="106.70362"
+         id="tspan9-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="117.11765"
+       y="114.79919"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0"
+         x="117.11765"
+         y="114.79919">Spreadsheets</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="117.11765"
+         y="122.29921"
+         id="tspan10">(no-automation)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="155.34383"
+       y="98.243721"
+       id="text7-4"><tspan
+         sodipodi:role="line"
+         id="tspan7-5"
+         style="stroke-width:0"
+         x="155.34383"
+         y="98.243721">Spreadsheets</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="155.34383"
+         y="105.74374"
+         id="tspan10-6">(w/automation)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="196.97505"
+       y="89.792831"
+       id="text7-2"><tspan
+         sodipodi:role="line"
+         id="tspan7-7"
+         style="stroke-width:0"
+         x="196.97505"
+         y="89.792831">C/C++</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="198.69292"
+       y="82.278687"
+       id="text7-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan7-7-2"
+         style="stroke-width:0"
+         x="198.69292"
+         y="82.278687">Rust</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="195.35175"
+       y="96.729805"
+       id="text7-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan7-7-8"
+         style="stroke-width:0"
+         x="195.35175"
+         y="96.729805">Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="201.00613"
+       y="67.00679"
+       id="text7-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan7-7-4"
+         style="stroke-width:0"
+         x="201.00613"
+         y="67.00679">R</tspan></text>
+    <g
+       id="g1-3"
+       transform="translate(-170.75401,-66.872735)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;font-family:Cabin;-inkscape-font-specification:Cabin;text-align:center;text-anchor:middle;fill:#000000;stroke:#0002fe;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="363.87787"
+         y="173.85338"
+         id="text7-2-4"><tspan
+           sodipodi:role="line"
+           id="tspan7-7-9"
+           style="stroke-width:0"
+           x="363.87787"
+           y="173.85338">Java/Scala</tspan></text>
+    </g>
+  </g>
+</svg>
